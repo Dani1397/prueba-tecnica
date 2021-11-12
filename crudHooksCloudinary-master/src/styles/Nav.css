@@ -1,0 +1,26 @@
+
+
+.header{
+    text-align: center;
+    color: rgb(173, 69, 69);
+    padding: 0.3%;
+    font-size: 120%;
+}
+
+.header nav{
+    display: flow-root;
+    padding-left:10%;
+    padding-right:10%; 
+}
+
+.link{
+    text-decoration: none;
+    padding-right:10%; 
+    color: rgb(100, 67, 92);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.link:hover{
+    color: thistle;
+}
